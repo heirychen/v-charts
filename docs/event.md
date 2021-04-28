@@ -4,6 +4,7 @@
 
 #### 示例
 
+```
 <vuep template="#simple-event"></vuep>
 
 <script v-pre type="text/x-template" id="simple-event">
@@ -49,4 +50,4 @@
     }
   }
 </script>
-</script>
+```
